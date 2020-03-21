@@ -21,7 +21,7 @@ if ("Coffin")
 {
 }
 		// 5. Otherwise, say "wrong" and tell them the answer
-else { 
+else (String input = JOptionPane.showInputDialog(Wrong!!!""); 
 	String input = JOptionPane.showInputDialog
 	
 }
