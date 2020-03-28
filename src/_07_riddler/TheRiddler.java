@@ -21,8 +21,8 @@ if ("Coffin")
 {
 }
 		// 5. Otherwise, say "wrong" and tell them the answer
-else (String input = JOptionPane.showInputDialog(Wrong!!!""); 
-	String input = JOptionPane.showInputDialog
+else (String Input = JOptionPane.showInputDialog("Wrong!!!"); 
+	String Input = JOptionPane.showInputDialog
 	
 }
 		// 6. Add some more riddles
@@ -32,3 +32,4 @@ else (String input = JOptionPane.showInputDialog(Wrong!!!"");
 	}
 }
 
+ 
